@@ -1,4 +1,4 @@
--# NASA Space App Challenge
+NASA Space App Challenge
 # [Game Name] - NASA Space App Challenge Project
 ![image](https://github.com/Aby-ss/NASA-Space-App-Challenge/assets/103417697/b003677d-8d80-4cd2-97c5-980863eed81a)
 
